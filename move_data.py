@@ -1,7 +1,7 @@
 import os, random
 from PIL import Image
 
-DIRECTORY = r"/home/ak/Desktop/mask_recognition/archive/data/with_mask"
+DIRECTORY = r"./less_data/with_mask"
 data = []
 while 1:
     check_data = random.choice(os.listdir(DIRECTORY))
