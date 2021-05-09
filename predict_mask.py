@@ -1,6 +1,6 @@
 """
 Serdar AKYOL
-Youtube: https://bit.ly/Mask_Detection
+Youtube:  https://www.youtube.com/watch?v=S8Ui9lX0f68
 LinkedIn: https://www.linkedin.com/in/serdarakyol55/
 """
 
